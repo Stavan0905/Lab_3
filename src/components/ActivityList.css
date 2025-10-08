@@ -1,0 +1,18 @@
+.activity-list {
+  background: white;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  max-width: 400px;
+  width: 100%;
+}
+
+.activity-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.activity-list li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+}
